@@ -298,9 +298,8 @@ _Silahkan pilih menu di bawah ini._`
 
     // tombol kembali
     keyboard.push([{ 
-        text: '🏠 Kembali ke Menu Utama', 
-        callback_data: 'menucmd ' + user_id 
-    }])
+        text: '🔄 Kembali Ke Halaman Pertama', 
+        callback_data: `stokpage ${userId} 1` }])
 
     teks += "👇 Pilih nomor produk 👇"
 
