@@ -299,7 +299,7 @@ _Silahkan pilih menu di bawah ini._`
     // tombol kembali
     keyboard.push([{ 
         text: '🔄 Kembali Ke Halaman Pertama', 
-        callback_data: `stokpage ${userId} 1` }])
+        callback_data: `stokpage ${user_id} 1` }])
 
     teks += "👇 Pilih nomor produk 👇"
 
