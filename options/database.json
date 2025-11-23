@@ -1,0 +1,153 @@
+{
+  "order": {},
+  "list": [],
+  "testi": [
+    {
+      "key": "test",
+      "response": "apa",
+      "isImage": true,
+      "image_url": "https://api.telegram.org/file/bot8065080964:AAGzfWUsSvvvsMfD5Ube11yxmqz1pg3w8IY/photos/file_0.jpg"
+    }
+  ],
+  "chat": {},
+  "user": [
+    "1835508209 "
+  ],
+  "sewa": {},
+  "produk": {
+    "AM": {
+      "id": "AM",
+      "name": "ALIGHT MOTION 1 TAHUN",
+      "desc": "PRIVATE ACCOUNT, NOGAR",
+      "snk": "NOGAR",
+      "price": "4000",
+      "profit": "4000",
+      "terjual": 0,
+      "stok": [
+        "amlight@gmail.com|32341",
+        "amlight@gmail.com|32341"
+      ]
+    },
+    "BS": {
+      "id": "BS",
+      "name": "BSTATION SHARING 1 BULAN",
+      "desc": "FULLGAR",
+      "snk": "FULLGAR",
+      "price": "7000",
+      "profit": "7000",
+      "terjual": 0,
+      "stok": []
+    },
+    "CNV": {
+      "id": "CNV",
+      "name": "CANVA HEAD 1 BULAN",
+      "desc": "BISA INVITE MEMBER, NOGAR",
+      "snk": "NOGAR",
+      "price": "5000",
+      "profit": "5000",
+      "terjual": 0,
+      "stok": []
+    },
+    "CC": {
+      "id": "CC",
+      "name": "CAPCUT PRO 35 HARI",
+      "desc": "PRIVATE ACCOUNT, NOGAR",
+      "snk": "NOGAR",
+      "price": "10000",
+      "profit": "10000",
+      "terjual": 0,
+      "stok": []
+    },
+    "GPT": {
+      "id": "GPT",
+      "name": "CHAT GPT HEAD TEAM",
+      "desc": "BISA INVITE 5 MEMBER, NOGAR",
+      "snk": "NOGAR",
+      "price": "13000",
+      "profit": "13000",
+      "terjual": 0,
+      "stok": []
+    },
+    "DO3VCC": {
+      "id": "DO3VCC",
+      "name": "DIGITAL OCEAN DROP 3 VCC",
+      "desc": "NOGAR",
+      "snk": "NOGAR",
+      "price": 80000,
+      "profit": "100000",
+      "terjual": 0,
+      "stok": []
+    },
+    "DO3PP": {
+      "id": "DO3PP",
+      "name": "DIGITAL OCEAN DROP 3 PP",
+      "desc": "KOSONGAN, NOGAR",
+      "snk": "NOGAR",
+      "price": "135000",
+      "profit": "135000",
+      "terjual": 0,
+      "stok": []
+    },
+    "DO10VCC": {
+      "id": "DO10VCC",
+      "name": "DIGITAL OCEAN DROP 10 VCC",
+      "desc": "KOSONGAN, NOGAR",
+      "snk": "NOGAR",
+      "price": "110000",
+      "profit": "110000",
+      "terjual": 0,
+      "stok": []
+    },
+    "DO10PP": {
+      "id": "DO10PP",
+      "name": "DIGITAL OCEAN DROP 10 PP",
+      "desc": "KOSONGAN, NOGAR",
+      "snk": "NOGAR",
+      "price": "150000",
+      "profit": "150000",
+      "terjual": 0,
+      "stok": []
+    },
+    "DI": {
+      "id": "DI",
+      "name": "DRAKOR ID",
+      "desc": "SHARING USER",
+      "snk": "NOGAR",
+      "price": "12000",
+      "profit": "12000",
+      "terjual": 0,
+      "stok": []
+    },
+    "PC": {
+      "id": "PC",
+      "name": "PICSART HEAD TEAM 15 SEAT",
+      "desc": "NOGAR",
+      "snk": "NOGAR",
+      "price": "5000",
+      "profit": "5000",
+      "terjual": 0,
+      "stok": []
+    },
+    "SPOS": {
+      "id": "SPOS",
+      "name": "SPOTIFY STUDENT 1 BULAN",
+      "desc": "NOGAR",
+      "snk": "NOGAR",
+      "price": "10000",
+      "profit": "10000",
+      "terjual": 0,
+      "stok": []
+    },
+    "SPOF": {
+      "id": "SPOF",
+      "name": "SPOTIFY FAM 1 BULAN",
+      "desc": "FULL GARANSI",
+      "snk": "FULL GARANSI",
+      "price": "12000",
+      "profit": "12000",
+      "terjual": 0,
+      "stok": []
+    }
+  },
+  "transaksi": []
+}
