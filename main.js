@@ -374,6 +374,15 @@ break;
 
                             if (cek.data.statusCode === "00") {
                                 bot.telegram.sendMessage(from, "✅ Pembayaran Diterima! Mengirim akun...")
+
+                              // === NOTIFIKASI ORDER MASUK (SUPER SIMPEL, ANTI ERROR) ===
+await bot.telegram.sendMessage(
+  5894696119,
+  `📢 ORDER MASUK\n` +
+  `👤 Dari: @${user.username || '-'}\n` +
+  `📦 Produk: ${p.name}`
+);
+                              
                                 
                                 db.data.produk[pid].terjual += jumlah
                                 let dataStok = []
