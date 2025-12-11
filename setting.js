@@ -27,7 +27,7 @@ global.apikey = "ptla_MlKIQoH4H55YPTjaF9ZDVhAhWX7LsRSHaaJdplxg7o5" //ptla
 global.capikey = "ptlc_dih3OthphCOtq9jp8DmE1siUIo7Rt18rmw5unR11zZR" //ptlc
 
 //Setting
-global.BOT_TOKEN = "8207622062:AAG94bRc44zXGJSMHQ3EVeVYigu7sqnnRKg" //Create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "8027347334:AAFM7_Gxmsfl1QX1d-XDD4f-aDDDNNjqSIk" //Create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "BOT DIGITAL PRODUK" //Your bot name
 global.OWNER_ID = "5894696119" //Your id
 global.OWNER_NAME = "PICUNG" //Your name
