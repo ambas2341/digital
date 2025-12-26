@@ -1307,7 +1307,7 @@ _Silahkan pilih menu di bawah ini._`
     }, {
         caption: teks,
         parse_mode: "MARKDOWN",
-        message_effect_id: "5104841245755180584", // <--- INI ID API NYA DIPASANG DISINI
+        message_effect_id: "5046589136895476101", // <--- INI ID API NYA DIPASANG DISINI
         disable_web_page_preview: true,
         reply_markup: {
             inline_keyboard: button
